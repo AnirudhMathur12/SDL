@@ -5,7 +5,7 @@
 class Entity
 {
     SDL_Rect position;
-    SDL_Texture tex;
+    SDL_Texture* tex;
     
     Entity()
     {
