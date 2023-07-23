@@ -1,5 +1,6 @@
 #include <iostream>
 #include <SDL2/SDL.h>
+#include <SDL2_image/SDL_image.h>
 
 SDL_Window* win;
 SDL_Renderer* rend;
